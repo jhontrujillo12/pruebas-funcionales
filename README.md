@@ -1,2 +1,1 @@
-# Frutty
-Aplicación para solicitar frutas a domicilio 
+Imagenes de pruebas funcionales para proyecto2
